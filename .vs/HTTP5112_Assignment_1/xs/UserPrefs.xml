@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{09E5B25B-D9A9-4215-AD6F-85FF4FCD233C}|Default">
+  <MonoDevelop.Ide.ItemProperties.HTTP5112__Assignment__1 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HTTP5112_Assignment_1/Controllers/AddTenController.cs">
+    <Files>
+      <File FileName="HTTP5112_Assignment_1/Controllers/AddTenController.cs" Line="15" Column="3" />
+      <File FileName="HTTP5112_Assignment_1/Controllers/ValuesController.cs" Line="16" Column="27" />
+      <File FileName="HTTP5112_Assignment_1/Controllers/HostingCostController.cs" Line="49" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HTTP5112_Assignment_1" expanded="True">
+            <Node name="HTTP5112_Assignment_1" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="AddTenController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
